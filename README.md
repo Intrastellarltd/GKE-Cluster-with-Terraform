@@ -1,12 +1,8 @@
 # GKE Cluster with Terraform
 
----
-
 ## GKE Architecture
 
 ![GKE - architecture](architecture-diagram/gke-architecture.svg)
-
----
 
 ## Introduction
 
@@ -45,5 +41,3 @@ Step-by-step guide on creating a private subnet for Kubernetes nodes, setting up
 Configure the GKE cluster's control plane and create multiple node pools using Terraform, adhering to best practices for security and scalability.
 
 By the end of this tutorial, you'll have a fully functional GKE cluster deployed on GCP, orchestrated with Terraform, following industry best practices. Let's embark on this journey together towards efficient, scalable, and maintainable infrastructure! 🌐🛠️
-
----
